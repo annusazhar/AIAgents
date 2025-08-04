@@ -31,7 +31,7 @@ My work focuses on empowering academics and practitioners in public policy and a
 **Background:**
 - 🎓 PhD in Public Policy and Administration
 - 🏛️ Former Assistant Research Fellow at Punjab Government's Planning & Development Department
-- 📊 Published researcher in AI applications for smart cities and economic development
+- 📊 Published researcher in Generative AI applications, smart cities, and socio-economic development
 - 🏆 MindStudio L3 Certified AI Agent Developer
 - 🌐 Multilingual: English, Urdu, Punjabi, Hindi
 
