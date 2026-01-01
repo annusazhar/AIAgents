@@ -6,6 +6,25 @@ Welcome to my collection of AI-powered tools designed for higher education resea
 
 ## 🚀 Featured AI Agents
 
+### Transcription Assistant  
+
+**Description**: An on-demand AI agent that accurately transcribes audio and video files, producing a clean, text-based transcript derived solely from spoken content.  
+
+**Use Case**: A researcher uploads a recorded interview or lecture video to quickly generate a transcript for analysis, citation, or archival purposes—without engaging in post-transcription chat or additional file uploads.  
+
+**Key Features:**
+- Supports both audio and video file uploads  
+- Automatic audio extraction from video files  
+- Accurate speech-to-text transcription  
+- Manual, on-demand operation within MindStudio  
+- Clear, linear workflow from upload to transcript delivery  
+- Audio-only processing (no visual analysis)  
+- Transcriptions treated as the authoritative source of content  
+- Explicit session constraint: no chat or file uploads after transcription  
+
+[🔗 Try it out](https://app.mindstudio.ai/agents/transcribechat-5833050c/remix)
+
+
 ### Academic Introduction Analyzer  
 **Description**: A tool that evaluates the introduction section of academic papers against research-grade standards, providing structured feedback without rewriting your original text.
 
