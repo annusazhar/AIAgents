@@ -43,13 +43,13 @@ Welcome to my collection of AI-powered tools designed for higher education resea
 
 ## 👨‍🎓 About Me
 
-I'm Dr. Annus Azhar, an Assistant Teaching Professor in the School of Public Affairs at Arizona State University and a certified AI Pracademic. With a PhD in Public Policy and Administration from Mississippi State University, I specialize in translating complex academic research into practical AI-powered solutions.
+I'm Dr. Annus Azhar, an Assistant Teaching Professor in the School of Public Affairs at Arizona State University and a certified AI Expert. With a Ph.D. in Public Policy and Administration from Mississippi State University, I specialize in translating complex academic research into practical AI-powered solutions.
 
 My work focuses on empowering academics and practitioners in public policy and administration to unlock AI's full potential. I've published peer-reviewed research on smart cities technologies and economic development, and I'm passionate about using AI to promote public values and enhance scholarly work.
 
 **Background:**
 - 🎓 PhD in Public Policy and Administration
-- 🏛️ Former Assistant Research Fellow at Punjab Government's Planning & Development Department
+- 🏛️ Former Assistant Research Fellow at the Punjab Government's Planning & Development Department
 - 📊 Published researcher in Generative AI applications, smart cities, and socio-economic development
 - 🏆 MindStudio L3 Certified AI Agent Developer
 - 🌐 Multilingual: English, Urdu, Punjabi, Hindi
